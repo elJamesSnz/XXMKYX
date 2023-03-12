@@ -11,7 +11,7 @@
     </a>
 </div>
 <h1 align="center">⚡Languages and Tools: </h1>
-<div>
+<div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"
     title="JavaScript" alt="JavaScript" width="40" height="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg"
@@ -30,8 +30,20 @@
     title="Tailwindcss" alt="" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"
     title="SASS" alt="" width="40" height="40">
-    <img src=""
-    title="" alt="" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"
+    title="MongoDB" alt="MongoDB" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg"
+    title="MySQL" alt="MySQL" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
+    title="SQL Server" alt="SQL Server" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"
+    title="Python" alt="Python" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg"
+    title="C#" alt="C#" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg"
+    title="C" alt="C" width="40" height="40">
+    
+
 </div>
 
 <!--
