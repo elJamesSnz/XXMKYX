@@ -8,13 +8,13 @@
 </div>
 <div id="badges align="center">
     <a href="https://twitter.com/XxMKY_">
-        <img src"https://img.shields.io/twitter/follow/XxMKY_?color=blue&logo=twitter&style=for-the-badge" alt="Twitter Badge"/>
+        <img src="https://img.shields.io/twitter/follow/XxMKY_?color=blue&logo=twitter&style=for-the-badge" alt="Twitter Badge"/>
     </a>
 </div>
 <h3 align="center">⚡Languages and Tools: </h3>
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"
-    title="JavaScript" alt="JavaScript" width="40" height="40">&nbsp;
+    title="JavaScript" width="40" height="40">&nbsp;
     <img src=""
     title="" alt="" width="40" height="40">
 </div>
