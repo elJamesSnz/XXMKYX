@@ -45,7 +45,7 @@
     title="Rust" alt="Rust" width="40" height="40">
     <img src="https://www.anchor-lang.com/_next/image?url=%2Flogo.png&w=32&q=75"
     title="Anchor" alt="Anchor" width="40" height="40">
-    <img src="url(#solana-gradient)"
+    <img src="https://pbs.twimg.com/profile_images/1472933274209107976/6u-LQfjG_400x400.jpg"
     title="Solana" alt="Solana" width="40" height="40">
 
 </div>
