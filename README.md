@@ -1,4 +1,3 @@
-
 <div id="header" align="center">
     <img  src="https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif" width="200"/>
     <h1 align="center"> Hi there 👋 I'm Mike </h1>
@@ -42,7 +41,12 @@
     title="C#" alt="C#" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg"
     title="C" alt="C" width="40" height="40">
-    
+    <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg"
+    title="Rust" alt="Rust" width="40" height="40">
+    <img src="https://www.anchor-lang.com/_next/image?url=%2Flogo.png&w=32&q=75"
+    title="Anchor" alt="Anchor" width="40" height="40">
+    <img src="https://solana.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdark-horizontal.e4df684f.svg&w=256&q=75"
+    title="Solana" alt="Solana" width="40" height="40">
 
 </div>
 
